@@ -1,10 +1,12 @@
 
+import AboutUs from "./pages/AboutUs";
+
 
 
 function App() {
   return (
     <div className="App">
-     <h1>works</h1>
+  <AboutUs/>
     </div>
   );
 }
